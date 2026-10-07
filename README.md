@@ -1,9 +1,9 @@
 # Hi there, I'm Jaykumar Kadao 👋
 
 <p align="left">
-  <a href="https://jaykumarkadao.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-jaykumarkadao.vercel.app-0f62fe?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://jaykumar.online"><img src="https://img.shields.io/badge/🌐_Portfolio-jaykumar.online-0f62fe?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/jaykumar-kadao-8489512b2/"><img src="https://img.shields.io/badge/LinkedIn-Jaykumar_Kadao-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://jaykumarkadao.vercel.app/api/download-resume"><img src="https://img.shields.io/badge/📄_Resume-Download_PDF-0a7343?style=for-the-badge" alt="Resume"/></a>
+  <a href="https://jaykumar.online/api/download-resume"><img src="https://img.shields.io/badge/📄_Resume-Download_PDF-0a7343?style=for-the-badge" alt="Resume"/></a>
   <a href="mailto:jaykadao99210@gmail.com"><img src="https://img.shields.io/badge/Email-jaykadao99210@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <b>Let's connect:</b> <a href="https://www.linkedin.com/in/jaykumar-kadao-8489512b2/">LinkedIn</a> • <a href="https://jaykumarkadao.vercel.app">Portfolio</a> • <a href="mailto:jaykadao99210@gmail.com">jaykadao99210@gmail.com</a>
+  <b>Let's connect:</b> <a href="https://www.linkedin.com/in/jaykumar-kadao-8489512b2/">LinkedIn</a> • <a href="https://jaykumar.online">Portfolio</a> • <a href="mailto:jaykadao99210@gmail.com">jaykadao99210@gmail.com</a>
 </p>
