@@ -38,7 +38,8 @@
 | :--- | :--- | :---: | :---: |
 | **AI BI Copilot** | LLM-powered enterprise analytics platform integrating **NVIDIA NIM & LangChain** across CSV, SQL Server, MySQL & live Power BI. Cuts report cycles from 3 hrs to &lt;2 mins. | [↗ Live App](https://ai-bi-copilot.vercel.app) | [⌥ Code](https://github.com/jayzz98/ai-bi-copilot) |
 | **Data Lie Detector** | Automated data integrity engine with 15+ diagnostics — trust scores, anomaly flagging, and decision-safety verdicts for CSV datasets. | [↗ Live App](https://data-lie-detector.vercel.app) | [⌥ Code](https://github.com/jayzz98/Data-Lie-Detector) |
-| **Real-Time News Dashboard** | Live multilingual news &amp; market intelligence dashboard integrating REST APIs, live Sensex feed, and historical sentiment storage. | — | [⌥ Code](https://github.com/jayzz98/Real-Time-News-Dashboard) |
+| **Real-Time News Dashboard** | Live multilingual news &amp; market intelligence dashboard integrating REST APIs, live Sensex feed, and historical sentiment storage. | [↗ Live View](https://app.powerbi.com/view?r=eyJrIjoiNWY5ZWNmYjMtMmZkNC00YTQwLThiOTMtYzc5MDBlZWJiNzIxIiwidCI6ImE2MGZmNjBjLTg3Y2EtNGRiNC05YzY5LWEyMTZkYTdhNjQ4NyJ9) | [⌥ Code](https://github.com/jayzz98/Real-Time-News-Dashboard) |
+| **EV Charging Stations Nagpur** | Interactive geospatial Power BI dashboard mapping EV charging infrastructure across Nagpur by connector type, charging speed, and ratings. | — | [⌥ Code](https://github.com/jayzz98/EV-Charging-Stations-in-Nagpur) |
 | **Warner Bros. BI Migration** | Enterprise migration of 15+ SAP BusinessObjects reports into optimized Power BI models with zero-defect UAT sign-off. | — | Enterprise |
 | **J&amp;J MedTech Dashboards** | Production Power BI dashboards tracking resource management &amp; KPIs with robust Row-Level Security (RLS). | — | Enterprise |
 
